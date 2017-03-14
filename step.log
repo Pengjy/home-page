@@ -1,0 +1,15 @@
+npm install -g bower
+
+step1:  npm init
+
+step2: 
+      bower init
+      vim .bowerrc
+  --------内容如下
+  {
+    "directory" : "public"
+  }
+
+  bower install jquery --save
+
+  bower install bootstrap --save

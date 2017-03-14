@@ -1,0 +1,19 @@
+{
+  "name": "home-page",
+  "version": "1.0.0",
+  "description": "Damon's index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pengjy/home-page.git"
+  },
+  "author": "Damon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pengjy/home-page/issues"
+  },
+  "homepage": "https://github.com/Pengjy/home-page#readme"
+}
